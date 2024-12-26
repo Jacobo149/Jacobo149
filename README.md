@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm Jacob Piskadlo, a student who enjoys reading about and learning new topics to make cool projects!\
-🎓 &nbsp;I'm currently a junior studying Computer Science and Engineering at Bucknell University (2025).\
+🎓 &nbsp;I'm currently a Senior studying Computer Science and Engineering at Bucknell University (2025).\
 🌱 &nbsp;I'm passionate about Blockchain (Solidity and Move experience), Machine Learning, and Mathematics.\
 ✍️ &nbsp;In my free time, I like to tinker on new projects, weightlift, and read.\
 ✉️ &nbsp;You can shoot me an email at jakepiskadlo@gmail.com, and I'll be sure to respond ASAP.
