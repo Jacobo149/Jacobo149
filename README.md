@@ -9,7 +9,7 @@
 ✉️ &nbsp;You can shoot me an email at jakepiskadlo@gmail.com, and I'll be sure to respond ASAP.
 
 
-:briefcase: &nbsp;Currently looking for Software Engineering internships for Summer 2024 and beyond to further build my skills.\
+:briefcase: &nbsp;Currently looking for Software Engineering jobs for Summer 2025 and beyond to further build my skills.\
 📄 &nbsp;Please contact me to get a copy of my resume or if you have any questions!
 
 ### 🛠 &nbsp;Tech Stack
