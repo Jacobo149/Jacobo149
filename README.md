@@ -31,5 +31,3 @@
 
 <a href="https://linkedin.com/in/jacob-piskadlo"><img src="https://img.shields.io/badge/-Jacob%20Piskadlo%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="jakepiskadlo@gmail.com"><img src="https://img.shields.io/badge/-jakepiskadlo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-<sub> Thank you @AVS1508 for the design! </sub>
